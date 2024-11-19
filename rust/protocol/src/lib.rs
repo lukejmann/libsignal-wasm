@@ -39,7 +39,7 @@ mod sender_keys;
 mod session;
 mod session_cipher;
 mod state;
-mod storage;
+pub mod storage;
 mod timestamp;
 mod utils;
 
